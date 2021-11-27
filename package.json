@@ -17,10 +17,8 @@
     },
     "dependencies": {
         "@distributed-systems/callsite": "^1.1.1",
-        "logd-console-output": "^1.2.1"
+        "logd-console-output": "github:epers/logd-console-output"
     },
-    "devDependencies": {},
-    "optionalDependencies": {},
     "keywords": [
         "log",
         "logging",
